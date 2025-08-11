@@ -1,7 +1,7 @@
 # GitHub Workflow
 
 In this workshop, you will practice using `git` to version control your projects. You will also learn some best practices on how to collaborate with other developers on code using GitHub.
-
+There is nothing permanent, except change it 
 Since this workshop focuses on working with another developer, **do not continue to the next section until your partner is ready**! The steps _must_ be followed in the given order.
 
 ## Getting Started
